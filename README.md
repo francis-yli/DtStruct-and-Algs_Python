@@ -1,2 +1,2 @@
 # Practice_Python
-Daily data Structures and algorithms practice in python
+Daily data structures and algorithms practice in python
